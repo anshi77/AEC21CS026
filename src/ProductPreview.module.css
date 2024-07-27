@@ -1,0 +1,27 @@
+
+.ProductPreview >img {
+   width: 100%
+}
+  .TimeSection{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size:48px ;
+    font-weight: 600;
+    }
+    .HeartBeat{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size:48px ;
+    font-weight: 600;
+    
+    }
+    .HeartBeat >i{
+      color: red;
+    }
+    
